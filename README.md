@@ -48,10 +48,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Tech Stack**: React Native, Firebase, AEM  
 **My Role**: Performance improvements, team lead, delivery planning
 
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/4ea91d51-4c03-49dd-96b7-36e76d6df588" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/5208fe69-5f11-4210-a544-576d6e283042" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/40819152-d4f8-45e3-9a62-d8e78b4301d1" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/cb2a4957-21b3-4ea0-821b-4e650721b1f4" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/4ea91d51-4c03-49dd-96b7-36e76d6df588" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/5208fe69-5f11-4210-a544-576d6e283042" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/40819152-d4f8-45e3-9a62-d8e78b4301d1" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/cb2a4957-21b3-4ea0-821b-4e650721b1f4" />
 
 
 ---
@@ -66,10 +66,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **My Role**: Web and mobile development, performance improvements, feature delivery  
 **More Info**: [App Store](https://apps.apple.com/us/app/ooredoo-qatar/id619828745) / [Google Play](https://play.google.com/store/apps/details?id=qa.ooredoo.android) / [Web](https://www.ooredoo.qa/web/en/)
 
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/d6caee4d-ae2d-49ab-9275-3daf9da61f59" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/b35de334-82e4-401b-8e9f-d7c4f43b5537" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/6729fb98-7827-46ba-8d59-9891a651ad87" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/9d5b38c7-07f7-4d60-b0d1-3856787a0c42" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/d6caee4d-ae2d-49ab-9275-3daf9da61f59" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/b35de334-82e4-401b-8e9f-d7c4f43b5537" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/6729fb98-7827-46ba-8d59-9891a651ad87" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/9d5b38c7-07f7-4d60-b0d1-3856787a0c42" />
 
 ---
 
@@ -83,10 +83,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **My Role**: Technical lead, delivery oversight, stakeholder collaboration  
 **More Info**: Removed from stores
 
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/64341173-dcce-4aa5-ac47-04f6d9ae7ec8" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/ee548f0a-b9f6-4a0b-a00d-fa6c073c9d24" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/6bd836f8-86ec-46c5-89b0-28735f6c3ef0" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/e42c886c-5eed-4930-bc64-81f77fafbbcf" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/64341173-dcce-4aa5-ac47-04f6d9ae7ec8" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/ee548f0a-b9f6-4a0b-a00d-fa6c073c9d24" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/6bd836f8-86ec-46c5-89b0-28735f6c3ef0" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/e42c886c-5eed-4930-bc64-81f77fafbbcf" />
 
 
 ---
@@ -101,10 +101,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **My Role**: Feature releases, bug fixes, performance improvements  
 **More Info**: Removed from stores
 
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/57b2a276-ecc5-4fc1-ac88-f6f0bc6ced0d" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/d9a093b6-6ca6-40c0-a533-2b9d5a3bf17d" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/d68603c9-0409-4788-9705-9be15558b736" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/43dfd0c2-35a3-486e-b06d-252e48bfa9d8" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/57b2a276-ecc5-4fc1-ac88-f6f0bc6ced0d" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/d9a093b6-6ca6-40c0-a533-2b9d5a3bf17d" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/d68603c9-0409-4788-9705-9be15558b736" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/43dfd0c2-35a3-486e-b06d-252e48bfa9d8" />
 
 ---
 
@@ -115,10 +115,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **My Role**: QA & release support for mobile delivery  
 **More Info**: Removed from stores
 
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/d63445ff-f7bc-468d-b5c9-64179fc704ed" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/5c880fdd-aa5d-464c-9c31-4c63d238006e" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/7d47da09-80fd-4d92-a787-07347e614be8" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/7967425b-0fb2-4760-bb33-21b30b7d7b91" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/d63445ff-f7bc-468d-b5c9-64179fc704ed" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/5c880fdd-aa5d-464c-9c31-4c63d238006e" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/7d47da09-80fd-4d92-a787-07347e614be8" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/7967425b-0fb2-4760-bb33-21b30b7d7b91" />
 
 
 
@@ -135,10 +135,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **My Role**: End-to-end mobile development and integration  
 **More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327) / Website: [ricardovilanova.com](https://ricardovilanova.com)
 
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/008896e7-92bd-4a4d-a54f-b054f39e71a7" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/567520ce-5e8f-4b58-af12-22c8fc4750c9" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/db5174df-32eb-4d03-95ed-cf88c43794b2" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/a9c547ca-b3bc-4278-a43c-6dc2f2dcaa03" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/008896e7-92bd-4a4d-a54f-b054f39e71a7" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/567520ce-5e8f-4b58-af12-22c8fc4750c9" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/db5174df-32eb-4d03-95ed-cf88c43794b2" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/a9c547ca-b3bc-4278-a43c-6dc2f2dcaa03" />
 
 
 
@@ -153,10 +153,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Tech Stack**: React Native, Firebase  
 **My Role**: Full mobile app development and store release
 
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/292ade5c-ca51-445a-89ee-9dfd1c8416d6" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/fd90a036-aef5-40cd-92c4-a545f593f9db" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/1febfc9c-1a5f-4559-919d-fddea6ea189f" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/44154064-9f85-40dc-b020-ca87df1138a5" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/292ade5c-ca51-445a-89ee-9dfd1c8416d6" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/fd90a036-aef5-40cd-92c4-a545f593f9db" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/1febfc9c-1a5f-4559-919d-fddea6ea189f" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/44154064-9f85-40dc-b020-ca87df1138a5" />
 
 
 ---
@@ -187,10 +187,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Tech Stack**: React Native  
 **My Role**: Feature development, login flows, backend integration
 
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/c4d05c02-8cf0-4876-882d-ad449052f9d1" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/5e1e0c3e-639e-4d74-952c-4a59f06a7d23" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/782400e6-b67a-4cda-b482-f7666f4980a2" />
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/26e0a24e-9d8d-4532-a0c4-6de69e532756" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/c4d05c02-8cf0-4876-882d-ad449052f9d1" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/5e1e0c3e-639e-4d74-952c-4a59f06a7d23" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/782400e6-b67a-4cda-b482-f7666f4980a2" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/26e0a24e-9d8d-4532-a0c4-6de69e532756" />
 
 ---
 
