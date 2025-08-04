@@ -27,13 +27,14 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 ## Tech Stack
 
-**Languages**: JavaScript, TypeScript  
-**Mobile**: React Native,Android, iOS, Redux  
-**Web**: ReactJS, Next.js, Styled Components, Tailwind, GraphQL, REST  
-**Backend**: Node.js, Prisma, Postgres, AWS, Azure  
-**DXP**: Liferay, Adobe AEM  
-**Tools**: Git, Jira, Figma, Jenkins, Play Store, App Store  
-**Testing**: Jest
+**Languages & Core**: JavaScript, TypeScript, HTML, CSS  
+**Frameworks & Libraries**: React, React Native, Next.js, Redux, Styled Components  
+**APIs & Data Handling**: GraphQL, REST, Axios, React Query  
+**Backend & Infrastructure**: Node.js, Prisma, PostgreSQL, AWS, Azure  
+**DXP**: Adobe Experience Manager (AEM), Liferay  
+**Testing & Code Quality**: Jest, React Testing Library, Detox, Cypress / Playwright, ESLint, Prettier, Husky  
+**CI/CD & DevOps**: Jenkins, Azure DevOps, Fastlane, Git  
+**Tools & Platforms**: Figma, Jira, Google Play Console, App Store Connect
 
 ---
 
