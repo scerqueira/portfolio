@@ -28,11 +28,11 @@ I'm a senior software engineer with over **16 years** of experience building sca
 ## Tech Stack
 
 **Languages**: JavaScript, TypeScript  
-**Mobile**: React Native,Android, iOS, Redux 
-**Web**: ReactJS, Next.js, Styled Components, Tailwind, GraphQL, REST
-**Backend**: Node.js, Prisma, Postgres, AWS, Azure
+**Mobile**: React Native,Android, iOS, Redux  
+**Web**: ReactJS, Next.js, Styled Components, Tailwind, GraphQL, REST  
+**Backend**: Node.js, Prisma, Postgres, AWS, Azure  
 **DXP**: Liferay, Adobe AEM  
-**Tools**: Git, Jira, Figma, Jenkins, Play Store, App Store
+**Tools**: Git, Jira, Figma, Jenkins, Play Store, App Store  
 **Testing**: Jest
 
 ---
@@ -45,7 +45,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Jawwy from stc – Saudi Telecom  
 **Description**: Telecom app and website for managing mobile plans, ordering SIMs, gifting data, and recharging balances.  
-**Tech Stack**: ReactJS (Web), React Native (Mobile), Firebase, AEM, REST API, Context API, Push Notifications, Styled Components
+**Tech Stack**: ReactJS (Web), React Native (Mobile), Firebase, AEM, REST API, Context API, Push Notifications, Styled Components  
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/4ea91d51-4c03-49dd-96b7-36e76d6df588" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/5208fe69-5f11-4210-a544-576d6e283042" />
@@ -63,7 +63,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Ooredoo Qatar  
 **Description**: Official self-care platform for Qatar customers. Includes web and mobile for managing telecom services—balance, SIM, billing, and e-commerce.  
-**Tech Stack**: ReactJS (Web), React Native (Mobile), Firebase, Rest API, Liferay, Redux, Push Notifications, Styled Components
+**Tech Stack**: ReactJS (Web), React Native (Mobile), Firebase, Rest API, Liferay, Redux, Push Notifications, Styled Components  
 **More Info**: [App Store](https://apps.apple.com/us/app/ooredoo-qatar/id619828745) / [Google Play](https://play.google.com/store/apps/details?id=qa.ooredoo.android) / [Web](https://www.ooredoo.qa/web/en/)
 
 <img  width="146" alt="image" src="https://github.com/user-attachments/assets/d6caee4d-ae2d-49ab-9275-3daf9da61f59" />
@@ -81,8 +81,8 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Farfetch Platform Solutions  
 **Description**: A luxury retail app connecting all client touchpoints—from in-store clienteling to digital experiences.  
-**Tech Stack**: React Native, Rest API, Redux, Push Notifications, Azure, Firebase, Styled Components
-**More Info**: Removed from stores
+**Tech Stack**: React Native, Rest API, Redux, Push Notifications, Azure, Firebase, Styled Components  
+**More Info**: Removed from stores  
 
 <img  width="146" alt="image" src="https://github.com/user-attachments/assets/64341173-dcce-4aa5-ac47-04f6d9ae7ec8" />
 <img  width="146" alt="image" src="https://github.com/user-attachments/assets/ee548f0a-b9f6-4a0b-a00d-fa6c073c9d24" />
@@ -98,8 +98,8 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Farfetch / Browns Fashion  
 **Description**: Shop designer brands with curated wishlists, Virtual Try-On, and cross-device syncing.  
-**Tech Stack**: React Native, Rest API, Redux, Push Notifications, Firebase, Styled Components
-**More Info**: Removed from stores
+**Tech Stack**: React Native, Rest API, Redux, Push Notifications, Firebase, Styled Components  
+**More Info**: Removed from stores  
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/57b2a276-ecc5-4fc1-ac88-f6f0bc6ced0d" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/d9a093b6-6ca6-40c0-a533-2b9d5a3bf17d" />
@@ -112,10 +112,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 ### 212.2 – Ricardo Vila Nova 📱
 
-**Client**: Ricardo Vila Nova (Trichologist & Hair Expert)  
+**Client**: Ricardo Vila Nova (Trichologist & Hair Expert)   
 **Description**: Luxury diagnostics & client care app for 212.2, including bookings, diagnostics, and recommendations.  
-**Tech Stack**: React Native, Firebase, TypeScript, Context API, Styled Components 
-**More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327)
+**Tech Stack**: React Native, Firebase, TypeScript, Context API, Styled Components  
+**More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327)  
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/008896e7-92bd-4a4d-a54f-b054f39e71a7" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/567520ce-5e8f-4b58-af12-22c8fc4750c9" />
@@ -130,8 +130,8 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Patriarcado de Lisboa  
 **Description**: Religious tourism guide with interactive info about churches, museums, and events.  
-**Tech Stack**: React Native, Firebase, Redux, Push Notifications, Maps, Geolocation
-**More Info**: [App Store](https://apps.apple.com/us/app/quovadis-lisboa/id1222656489)
+**Tech Stack**: React Native, Firebase, Redux, Push Notifications, Maps, Geolocation  
+**More Info**: [App Store](https://apps.apple.com/us/app/quovadis-lisboa/id1222656489)  
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/292ade5c-ca51-445a-89ee-9dfd1c8416d6" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/fd90a036-aef5-40cd-92c4-a545f593f9db" />
@@ -162,8 +162,8 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Academic HealthPlans  
 **Description**: Insurance portal for students to access plan details and ID cards.  
-**Tech Stack**: React Native, Redux
-**More Info**: [App Store](https://apps.apple.com/us/app/ahp-care/id1327778071) / [ahpcare.com/mobile](https://www.ahpcare.com/mobile/)
+**Tech Stack**: React Native, Redux  
+**More Info**: [App Store](https://apps.apple.com/us/app/ahp-care/id1327778071) / [ahpcare.com/mobile](https://www.ahpcare.com/mobile/)  
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/c4d05c02-8cf0-4876-882d-ad449052f9d1" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/5e1e0c3e-639e-4d74-952c-4a59f06a7d23" />
