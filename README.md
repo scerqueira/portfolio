@@ -46,7 +46,6 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: Jawwy from stc – Saudi Telecom  
 **Description**: Telecom app for managing your mobile plan, ordering SIMs, gifting data, and recharging balance.  
 **Tech Stack**: React Native, Firebase, AEM  
-**My Role**: Performance improvements, team lead, delivery planning
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/4ea91d51-4c03-49dd-96b7-36e76d6df588" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/5208fe69-5f11-4210-a544-576d6e283042" />
@@ -65,7 +64,6 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: Ooredoo Qatar  
 **Description**: Official self-care platform for Qatar customers. Includes web and mobile for managing telecom services—balance, SIM, billing, and e-commerce.  
 **Tech Stack**: ReactJS (Web), React Native (Mobile), Firebase, AEM  
-**My Role**: Web and mobile development, performance improvements, feature delivery  
 **More Info**: [App Store](https://apps.apple.com/us/app/ooredoo-qatar/id619828745) / [Google Play](https://play.google.com/store/apps/details?id=qa.ooredoo.android) / [Web](https://www.ooredoo.qa/web/en/)
 
 <img  height="300" alt="image" src="https://github.com/user-attachments/assets/d6caee4d-ae2d-49ab-9275-3daf9da61f59" />
@@ -84,7 +82,6 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: Farfetch Platform Solutions  
 **Description**: A luxury retail app connecting all client touchpoints—from in-store clienteling to digital experiences.  
 **Tech Stack**: React Native, GraphQL, CI/CD  
-**My Role**: Technical lead, delivery oversight, stakeholder collaboration  
 **More Info**: Removed from stores
 
 <img  height="300" alt="image" src="https://github.com/user-attachments/assets/64341173-dcce-4aa5-ac47-04f6d9ae7ec8" />
@@ -102,7 +99,6 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: Farfetch / Browns Fashion  
 **Description**: Shop designer brands with curated wishlists, Virtual Try-On, and cross-device syncing.  
 **Tech Stack**: React Native  
-**My Role**: Feature releases, bug fixes, performance improvements  
 **More Info**: Removed from stores
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/57b2a276-ecc5-4fc1-ac88-f6f0bc6ced0d" />
@@ -115,8 +111,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 ### OFF-WHITE App 📱
 
 **Client**: Farfetch / Off-White™  
-**Description**: Exclusive shopping app with collections, drops, and behind-the-scenes content.  
-**My Role**: QA & release support for mobile delivery  
+**Description**: Exclusive shopping app with collections, drops, and behind-the-scenes content.    
 **More Info**: Removed from stores
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/d63445ff-f7bc-468d-b5c9-64179fc704ed" />
@@ -128,12 +123,11 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 <img width="114" height="114" alt="212.2 - Ricardo Vila Nova" src="https://github.com/user-attachments/assets/f1f76bc6-11aa-4019-96bc-a672a62f40d8" />
 
-### 212.2 – Ricardo Vila Nova 📱 🌐
+### 212.2 – Ricardo Vila Nova 📱
 
 **Client**: Ricardo Vila Nova (Trichologist & Hair Expert)  
 **Description**: Luxury diagnostics & client care app for 212.2, including bookings, diagnostics, and recommendations.  
 **Tech Stack**: React Native, Firebase, TypeScript  
-**My Role**: End-to-end mobile development and integration  
 **More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327) / [ricardovilanova.com](https://ricardovilanova.com)
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/008896e7-92bd-4a4d-a54f-b054f39e71a7" />
@@ -154,7 +148,6 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: Patriarcado de Lisboa  
 **Description**: Religious tourism guide with interactive info about churches, museums, and events.  
 **Tech Stack**: React Native, Firebase  
-**My Role**: Full mobile app development and store release
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/292ade5c-ca51-445a-89ee-9dfd1c8416d6" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/fd90a036-aef5-40cd-92c4-a545f593f9db" />
@@ -169,8 +162,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: DECO – Portuguese Consumer Protection Association  
 **Description**: Use your virtual DECO+ card for instant discounts on fuel, health, banking, and more.  
-**Tech Stack**: React Native, GraphQL  
-**My Role**: UI development, store management, feature integration  
+**Tech Stack**: React Native, GraphQL    
 **More Info**: [Play Store](https://play.google.com/store/apps/details?id=pt.deco.mais) / [App Store](https://apps.apple.com/pt/app/decomais/id1302090178)
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/651354fc-1d41-4429-b6fa-9c333ac534d5" />
@@ -186,8 +178,8 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Academic HealthPlans  
 **Description**: Insurance portal for students to access plan details and ID cards.  
-**Tech Stack**: React Native  
-**My Role**: Feature development, login flows, backend integration
+**Tech Stack**: React Native
+**More Info**: [App Store](https://apps.apple.com/us/app/ahp-care/id1327778071) / [ahpcare.com/mobile](https://www.ahpcare.com/mobile/)
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/c4d05c02-8cf0-4876-882d-ad449052f9d1" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/5e1e0c3e-639e-4d74-952c-4a59f06a7d23" />
