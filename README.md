@@ -33,9 +33,9 @@ I'm a senior software engineer with over **16 years** of experience building sca
 | **Frameworks & Libraries** | React • React Native • Next.js • Redux • Context API • Styled Components       |
 | **APIs & Data Handling** | GraphQL • REST • Axios • React Query                                            |
 | **Backend & Infra**      | Node.js • Express.js • TypeORM • Prisma • PostgreSQL • AWS • Azure • OAuth • JWT |
-| **DXP & CRM**            | Adobe Experience Manager (AEM) • Liferay • Salesforce                           |
-| **Testing & Code Quality** | Jest • React Testing Library • Supertest • ESLint • Prettier • Husky           |
-| **CI/CD & DevOps**       | Jenkins • Azure DevOps • GitHub Actions • Fastlane • Git                        |
+| **DXP & CRM**            | Adobe Experience Manager (AEM) • Liferay                           |
+| **Testing & Code Quality** | Jest • React Testing Library • ESLint • Prettier • Husky           |
+| **CI/CD & DevOps**       | Jenkins • Azure DevOps • GitHub Actions • Fastlane • Github, GitLab                       |
 | **Tools & Platforms**    | Figma • Jira • Google Play Console • App Store Connect                         |
 
 
