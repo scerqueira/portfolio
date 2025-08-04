@@ -47,10 +47,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Description**: Telecom app for managing your mobile plan, ordering SIMs, gifting data, and recharging balance.  
 **Tech Stack**: React Native, Firebase, Context API, AEM, REST API, Push Notifications, Styled Components
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/4ea91d51-4c03-49dd-96b7-36e76d6df588" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/5208fe69-5f11-4210-a544-576d6e283042" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/40819152-d4f8-45e3-9a62-d8e78b4301d1" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/cb2a4957-21b3-4ea0-821b-4e650721b1f4" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/4ea91d51-4c03-49dd-96b7-36e76d6df588" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/5208fe69-5f11-4210-a544-576d6e283042" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/40819152-d4f8-45e3-9a62-d8e78b4301d1" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/cb2a4957-21b3-4ea0-821b-4e650721b1f4" />
 
 <img width="1680" height="902" alt="Screenshot 2025-06-20 at 13 32 22" src="https://github.com/user-attachments/assets/41010e66-3ed7-4616-9c52-46297e731fff" />
 
@@ -66,10 +66,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Tech Stack**: ReactJS (Web), React Native (Mobile), Firebase, Rest API, Liferay, Redux, Push Notifications, Styled Components
 **More Info**: [App Store](https://apps.apple.com/us/app/ooredoo-qatar/id619828745) / [Google Play](https://play.google.com/store/apps/details?id=qa.ooredoo.android) / [Web](https://www.ooredoo.qa/web/en/)
 
-<img  height="300" alt="image" src="https://github.com/user-attachments/assets/d6caee4d-ae2d-49ab-9275-3daf9da61f59" />
-<img  height="300" alt="image" src="https://github.com/user-attachments/assets/b35de334-82e4-401b-8e9f-d7c4f43b5537" />
-<img  height="300" alt="image" src="https://github.com/user-attachments/assets/6729fb98-7827-46ba-8d59-9891a651ad87" />
-<img  height="300" alt="image" src="https://github.com/user-attachments/assets/9d5b38c7-07f7-4d60-b0d1-3856787a0c42" />
+<img  width="146" alt="image" src="https://github.com/user-attachments/assets/d6caee4d-ae2d-49ab-9275-3daf9da61f59" />
+<img  width="146" alt="image" src="https://github.com/user-attachments/assets/b35de334-82e4-401b-8e9f-d7c4f43b5537" />
+<img  width="146" alt="image" src="https://github.com/user-attachments/assets/6729fb98-7827-46ba-8d59-9891a651ad87" />
+<img  width="146" alt="image" src="https://github.com/user-attachments/assets/9d5b38c7-07f7-4d60-b0d1-3856787a0c42" />
 
 <img width="1678" height="938" alt="Screenshot 2025-08-04 at 01 07 27" src="https://github.com/user-attachments/assets/05f93993-435a-4707-9569-bbbf47abe92a" />
 
@@ -84,10 +84,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Tech Stack**: React Native, Rest API, Redux, Push Notifications, Azure
 **More Info**: Removed from stores
 
-<img  height="300" alt="image" src="https://github.com/user-attachments/assets/64341173-dcce-4aa5-ac47-04f6d9ae7ec8" />
-<img  height="300" alt="image" src="https://github.com/user-attachments/assets/ee548f0a-b9f6-4a0b-a00d-fa6c073c9d24" />
-<img  height="300" alt="image" src="https://github.com/user-attachments/assets/6bd836f8-86ec-46c5-89b0-28735f6c3ef0" />
-<img  height="300" alt="image" src="https://github.com/user-attachments/assets/e42c886c-5eed-4930-bc64-81f77fafbbcf" />
+<img  width="146" alt="image" src="https://github.com/user-attachments/assets/64341173-dcce-4aa5-ac47-04f6d9ae7ec8" />
+<img  width="146" alt="image" src="https://github.com/user-attachments/assets/ee548f0a-b9f6-4a0b-a00d-fa6c073c9d24" />
+<img  width="146" alt="image" src="https://github.com/user-attachments/assets/6bd836f8-86ec-46c5-89b0-28735f6c3ef0" />
+<img  width="146" alt="image" src="https://github.com/user-attachments/assets/e42c886c-5eed-4930-bc64-81f77fafbbcf" />
 
 
 ---
@@ -101,10 +101,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Tech Stack**: React Native, Rest API, Redux, Push Notifications.
 **More Info**: Removed from stores
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/57b2a276-ecc5-4fc1-ac88-f6f0bc6ced0d" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/d9a093b6-6ca6-40c0-a533-2b9d5a3bf17d" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/d68603c9-0409-4788-9705-9be15558b736" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/43dfd0c2-35a3-486e-b06d-252e48bfa9d8" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/57b2a276-ecc5-4fc1-ac88-f6f0bc6ced0d" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/d9a093b6-6ca6-40c0-a533-2b9d5a3bf17d" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/d68603c9-0409-4788-9705-9be15558b736" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/43dfd0c2-35a3-486e-b06d-252e48bfa9d8" />
 
 ---
 
@@ -114,10 +114,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Description**: Exclusive shopping app with collections, drops, and behind-the-scenes content.    
 **More Info**: Removed from stores
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/d63445ff-f7bc-468d-b5c9-64179fc704ed" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/5c880fdd-aa5d-464c-9c31-4c63d238006e" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/7d47da09-80fd-4d92-a787-07347e614be8" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/7967425b-0fb2-4760-bb33-21b30b7d7b91" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/d63445ff-f7bc-468d-b5c9-64179fc704ed" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/5c880fdd-aa5d-464c-9c31-4c63d238006e" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/7d47da09-80fd-4d92-a787-07347e614be8" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/7967425b-0fb2-4760-bb33-21b30b7d7b91" />
 
 ---
 
@@ -130,10 +130,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Tech Stack**: React Native, Firebase, TypeScript, Context API 
 **More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327)
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/008896e7-92bd-4a4d-a54f-b054f39e71a7" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/567520ce-5e8f-4b58-af12-22c8fc4750c9" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/db5174df-32eb-4d03-95ed-cf88c43794b2" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/a9c547ca-b3bc-4278-a43c-6dc2f2dcaa03" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/008896e7-92bd-4a4d-a54f-b054f39e71a7" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/567520ce-5e8f-4b58-af12-22c8fc4750c9" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/db5174df-32eb-4d03-95ed-cf88c43794b2" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/a9c547ca-b3bc-4278-a43c-6dc2f2dcaa03" />
 
 ---
 
@@ -146,10 +146,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Tech Stack**: React Native, Firebase  
 **More Info**: [App Store](https://apps.apple.com/us/app/quovadis-lisboa/id1222656489)
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/292ade5c-ca51-445a-89ee-9dfd1c8416d6" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/fd90a036-aef5-40cd-92c4-a545f593f9db" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/1febfc9c-1a5f-4559-919d-fddea6ea189f" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/44154064-9f85-40dc-b020-ca87df1138a5" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/292ade5c-ca51-445a-89ee-9dfd1c8416d6" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/fd90a036-aef5-40cd-92c4-a545f593f9db" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/1febfc9c-1a5f-4559-919d-fddea6ea189f" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/44154064-9f85-40dc-b020-ca87df1138a5" />
 
 ---
 
@@ -162,10 +162,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Tech Stack**: React Native, GraphQL    
 **More Info**: [Play Store](https://play.google.com/store/apps/details?id=pt.deco.mais) / [App Store](https://apps.apple.com/pt/app/decomais/id1302090178)
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/651354fc-1d41-4429-b6fa-9c333ac534d5" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/0bf80ee4-8457-448b-9134-2597e83a1ecd" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/5dd360b5-1b37-4c76-9566-f52c56ea4bdf" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/9a3dbaa0-e9a4-4c90-88c1-55c2eb936a14" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/651354fc-1d41-4429-b6fa-9c333ac534d5" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/0bf80ee4-8457-448b-9134-2597e83a1ecd" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/5dd360b5-1b37-4c76-9566-f52c56ea4bdf" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/9a3dbaa0-e9a4-4c90-88c1-55c2eb936a14" />
 
 ---
 
@@ -178,10 +178,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Tech Stack**: React Native
 **More Info**: [App Store](https://apps.apple.com/us/app/ahp-care/id1327778071) / [ahpcare.com/mobile](https://www.ahpcare.com/mobile/)
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/c4d05c02-8cf0-4876-882d-ad449052f9d1" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/5e1e0c3e-639e-4d74-952c-4a59f06a7d23" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/782400e6-b67a-4cda-b482-f7666f4980a2" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/26e0a24e-9d8d-4532-a0c4-6de69e532756" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/c4d05c02-8cf0-4876-882d-ad449052f9d1" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/5e1e0c3e-639e-4d74-952c-4a59f06a7d23" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/782400e6-b67a-4cda-b482-f7666f4980a2" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/26e0a24e-9d8d-4532-a0c4-6de69e532756" />
 
 ---
 
@@ -194,11 +194,11 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Tech Stack**: Android, Geolocation APIs  
 **My Role**: Geolocation integration and interactive clue logic
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/22703a43-6289-437f-996c-f64ec58902ef" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/8ab22a7d-2203-42a9-86d1-6410561e366e" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/66bbfa65-03d9-4537-8dec-4a38ae38d937" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/e388f626-5552-4f14-8bc5-de3864207edc" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/025af757-ab1c-481f-a511-3bece52b7989" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/22703a43-6289-437f-996c-f64ec58902ef" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/8ab22a7d-2203-42a9-86d1-6410561e366e" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/66bbfa65-03d9-4537-8dec-4a38ae38d937" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/e388f626-5552-4f14-8bc5-de3864207edc" />
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/025af757-ab1c-481f-a511-3bece52b7989" />
 
 ---
 
