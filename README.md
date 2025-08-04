@@ -128,26 +128,23 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: Ricardo Vila Nova (Trichologist & Hair Expert)  
 **Description**: Luxury diagnostics & client care app for 212.2, including bookings, diagnostics, and recommendations.  
 **Tech Stack**: React Native, Firebase, TypeScript  
-**More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327) / [ricardovilanova.com](https://ricardovilanova.com)
+**More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327)
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/008896e7-92bd-4a4d-a54f-b054f39e71a7" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/567520ce-5e8f-4b58-af12-22c8fc4750c9" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/db5174df-32eb-4d03-95ed-cf88c43794b2" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/a9c547ca-b3bc-4278-a43c-6dc2f2dcaa03" />
 
-<img width="1678" height="906" alt="Screenshot 2025-06-20 at 13 33 35" src="https://github.com/user-attachments/assets/04c35041-17cb-4945-81bb-bd8369542e26" />
-
-
-
 ---
 
 <img width="114" height="114" alt="QuoVadis Lisboa" src="https://github.com/user-attachments/assets/856b1258-3b81-4a3b-8377-a912537e3e8f" />
 
-### QuoVadis Lisboa 📱 🌐
+### QuoVadis Lisboa 📱
 
 **Client**: Patriarcado de Lisboa  
 **Description**: Religious tourism guide with interactive info about churches, museums, and events.  
 **Tech Stack**: React Native, Firebase  
+**More Info**: [App Store](https://apps.apple.com/us/app/quovadis-lisboa/id1222656489)
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/292ade5c-ca51-445a-89ee-9dfd1c8416d6" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/fd90a036-aef5-40cd-92c4-a545f593f9db" />
@@ -188,17 +185,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 ---
 
-### TINA – Fitness Instructor App 📱 🌐
-
-**Client**: Passion Fitness  
-**Description**: App for streaming fitness sessions, class scheduling, and community engagement.  
-**Tech Stack**: React Native, Firebase  
-**My Role**: Streaming logic, live session handling, gamification  
-**More Info**: Removed from stores
-
----
-
-<img width="114" height="114" alt="Crumbs City Trails" src="https://github.com/user-attachments/assets/69eae439-46e1-4b4d-9c74-5a6d90da9e0a" />
+<img width="114" height="114" alt="AHP Care" src="https://github.com/user-attachments/assets/27a7f249-8d91-44df-8e9f-7a893244c1e7" />
 
 ### Crumbs City Trails 📱
 
@@ -207,6 +194,11 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Tech Stack**: React Native, Geolocation APIs  
 **My Role**: Geolocation integration and interactive clue logic
 
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/22703a43-6289-437f-996c-f64ec58902ef" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/8ab22a7d-2203-42a9-86d1-6410561e366e" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/66bbfa65-03d9-4537-8dec-4a38ae38d937" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/e388f626-5552-4f14-8bc5-de3864207edc" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/025af757-ab1c-481f-a511-3bece52b7989" />
 
 ---
 
