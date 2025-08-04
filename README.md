@@ -45,7 +45,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Jawwy from stc – Saudi Telecom  
 **Description**: Telecom app for managing your mobile plan, ordering SIMs, gifting data, and recharging balance.  
-**Tech Stack**: React Native, Firebase, AEM  
+**Tech Stack**: React Native, Firebase, Context API, AEM, REST API, Push Notifications, Styled Components
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/4ea91d51-4c03-49dd-96b7-36e76d6df588" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/5208fe69-5f11-4210-a544-576d6e283042" />
@@ -63,7 +63,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Ooredoo Qatar  
 **Description**: Official self-care platform for Qatar customers. Includes web and mobile for managing telecom services—balance, SIM, billing, and e-commerce.  
-**Tech Stack**: ReactJS (Web), React Native (Mobile), Firebase, AEM  
+**Tech Stack**: ReactJS (Web), React Native (Mobile), Firebase, Rest API, Liferay, Redux, Push Notifications, Styled Components
 **More Info**: [App Store](https://apps.apple.com/us/app/ooredoo-qatar/id619828745) / [Google Play](https://play.google.com/store/apps/details?id=qa.ooredoo.android) / [Web](https://www.ooredoo.qa/web/en/)
 
 <img  height="300" alt="image" src="https://github.com/user-attachments/assets/d6caee4d-ae2d-49ab-9275-3daf9da61f59" />
@@ -81,7 +81,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Farfetch Platform Solutions  
 **Description**: A luxury retail app connecting all client touchpoints—from in-store clienteling to digital experiences.  
-**Tech Stack**: React Native, GraphQL, CI/CD  
+**Tech Stack**: React Native, Rest API, Redux, Push Notifications, Azure
 **More Info**: Removed from stores
 
 <img  height="300" alt="image" src="https://github.com/user-attachments/assets/64341173-dcce-4aa5-ac47-04f6d9ae7ec8" />
@@ -98,7 +98,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Farfetch / Browns Fashion  
 **Description**: Shop designer brands with curated wishlists, Virtual Try-On, and cross-device syncing.  
-**Tech Stack**: React Native  
+**Tech Stack**: React Native, Rest API, Redux, Push Notifications.
 **More Info**: Removed from stores
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/57b2a276-ecc5-4fc1-ac88-f6f0bc6ced0d" />
@@ -127,7 +127,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Ricardo Vila Nova (Trichologist & Hair Expert)  
 **Description**: Luxury diagnostics & client care app for 212.2, including bookings, diagnostics, and recommendations.  
-**Tech Stack**: React Native, Firebase, TypeScript  
+**Tech Stack**: React Native, Firebase, TypeScript, Context API 
 **More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327)
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/008896e7-92bd-4a4d-a54f-b054f39e71a7" />
@@ -191,7 +191,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: National Walking Month initiative  
 **Description**: Walking trail app with step tracking and clue-based exploration in 12 UK cities.  
-**Tech Stack**: React Native, Geolocation APIs  
+**Tech Stack**: Android, Geolocation APIs  
 **My Role**: Geolocation integration and interactive clue logic
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/22703a43-6289-437f-996c-f64ec58902ef" />
