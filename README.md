@@ -192,7 +192,6 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: National Walking Month initiative  
 **Description**: Walking trail app with step tracking and clue-based exploration in 12 UK cities.  
 **Tech Stack**: Android, Geolocation APIs  
-**My Role**: Geolocation integration and interactive clue logic
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/22703a43-6289-437f-996c-f64ec58902ef" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/8ab22a7d-2203-42a9-86d1-6410561e366e" />
