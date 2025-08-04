@@ -108,19 +108,6 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 ---
 
-### OFF-WHITE App 📱
-
-**Client**: Farfetch / Off-White™  
-**Description**: Exclusive shopping app with collections, drops, and behind-the-scenes content.    
-**More Info**: Removed from stores
-
-<img width="146" alt="image" src="https://github.com/user-attachments/assets/d63445ff-f7bc-468d-b5c9-64179fc704ed" />
-<img width="146" alt="image" src="https://github.com/user-attachments/assets/5c880fdd-aa5d-464c-9c31-4c63d238006e" />
-<img width="146" alt="image" src="https://github.com/user-attachments/assets/7d47da09-80fd-4d92-a787-07347e614be8" />
-<img width="146" alt="image" src="https://github.com/user-attachments/assets/7967425b-0fb2-4760-bb33-21b30b7d7b91" />
-
----
-
 <img width="114" height="114" alt="212.2 - Ricardo Vila Nova" src="https://github.com/user-attachments/assets/f1f76bc6-11aa-4019-96bc-a672a62f40d8" />
 
 ### 212.2 – Ricardo Vila Nova 📱
