@@ -73,6 +73,8 @@ I'm a senior software engineer with over **16 years** of experience building sca
 <img  height="300" alt="image" src="https://github.com/user-attachments/assets/6729fb98-7827-46ba-8d59-9891a651ad87" />
 <img  height="300" alt="image" src="https://github.com/user-attachments/assets/9d5b38c7-07f7-4d60-b0d1-3856787a0c42" />
 
+<img width="1678" height="938" alt="Screenshot 2025-08-04 at 01 07 27" src="https://github.com/user-attachments/assets/05f93993-435a-4707-9569-bbbf47abe92a" />
+
 ---
 
 <img width="114" height="114" alt="Connected Retail" src="https://github.com/user-attachments/assets/14c3b033-56b2-47e9-890a-8289a9fbed60" />
@@ -132,7 +134,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Description**: Luxury diagnostics & client care app for 212.2, including bookings, diagnostics, and recommendations.  
 **Tech Stack**: React Native, Firebase, TypeScript  
 **My Role**: End-to-end mobile development and integration  
-**More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327) / Website: [ricardovilanova.com](https://ricardovilanova.com)
+**More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327) / [ricardovilanova.com](https://ricardovilanova.com)
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/008896e7-92bd-4a4d-a54f-b054f39e71a7" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/567520ce-5e8f-4b58-af12-22c8fc4750c9" />
@@ -194,8 +196,6 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 ---
 
-
-
 ### TINA – Fitness Instructor App 📱 🌐
 
 **Client**: Passion Fitness  
@@ -214,7 +214,6 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Description**: Walking trail app with step tracking and clue-based exploration in 12 UK cities.  
 **Tech Stack**: React Native, Geolocation APIs  
 **My Role**: Geolocation integration and interactive clue logic
-
 
 
 ---
