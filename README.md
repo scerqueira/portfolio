@@ -190,8 +190,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 ## 🔗 Contact & Links
 
 - 📬 Email: scerqueira.dev@gmail.com  
-- 🌍 [LinkedIn](https://linkedin.com/in/sergiocerqueira)  
-- 💻 [GitHub](https://github.com/sergiocerqueira)
+- 🌍 [LinkedIn](https://linkedin.com/in/scerqueira-dev)  
 
 ---
 
