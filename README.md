@@ -29,7 +29,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 | **Languages & Core**     | JavaScript • TypeScript • HTML • CSS                                            |
 | **Frameworks & Libraries** | React • React Native • Next.js • Redux • Context API • Styled Components       |
 | **APIs & Data Handling** | GraphQL • REST • Axios • React Query                                            |
-| **Backend & Infra**      | Node.js • Express.js • TypeORM • PostgreSQL • AWS • Azure • OAuth • JWT |
+| **Backend & Infra**      | Node.js • Express.js • TypeORM • PostgreSQL • AWS • Azure |
 | **DXP & CRM**            | Adobe Experience Manager (AEM) • Liferay                           |
 | **Testing & Code Quality** | Jest • React Testing Library • ESLint • Prettier • Husky           |
 | **CI/CD & DevOps**       | Jenkins • Azure DevOps • GitHub Actions • Fastlane • Github, GitLab                       |
@@ -54,8 +54,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/40819152-d4f8-45e3-9a62-d8e78b4301d1" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/cb2a4957-21b3-4ea0-821b-4e650721b1f4" />
 
-<img width="1680" height="902" alt="Screenshot 2025-06-20 at 13 32 22" src="https://github.com/user-attachments/assets/41010e66-3ed7-4616-9c52-46297e731fff" />
-
+<img width="1020" height="806" alt="Screenshot 2025-08-11 at 14 13 01" src="https://github.com/user-attachments/assets/719b951e-6d2d-450f-b8ed-cb31e797d76a" />
 
 ---
 
@@ -73,11 +72,9 @@ I'm a senior software engineer with over **16 years** of experience building sca
 <img  width="146" alt="image" src="https://github.com/user-attachments/assets/6729fb98-7827-46ba-8d59-9891a651ad87" />
 <img  width="146" alt="image" src="https://github.com/user-attachments/assets/9d5b38c7-07f7-4d60-b0d1-3856787a0c42" />
 
-<img width="1678" height="938" alt="Screenshot 2025-08-04 at 01 07 27" src="https://github.com/user-attachments/assets/05f93993-435a-4707-9569-bbbf47abe92a" />
+<img width="928" height="774" alt="Screenshot 2025-08-11 at 14 05 16" src="https://github.com/user-attachments/assets/32b21614-916d-49e6-a23c-87bba489ae46" />
 
 ---
-
-<img width="114" height="114" alt="Connected Retail" src="https://github.com/user-attachments/assets/14c3b033-56b2-47e9-890a-8289a9fbed60" />
 
 ### Connected Retail App (Farfetch) 📱
 
@@ -164,7 +161,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: Academic HealthPlans  
 **Description**: Insurance portal for students to access plan details and ID cards.  
-**Tech Stack**: React Native, Redux  
+**Tech Stack**: React Native, Redux, Push Notifications  
 **More Info**: [App Store](https://apps.apple.com/us/app/ahp-care/id1327778071) / [ahpcare.com/mobile](https://www.ahpcare.com/mobile/)  
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/c4d05c02-8cf0-4876-882d-ad449052f9d1" />
@@ -180,7 +177,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 **Client**: National Walking Month initiative  
 **Description**: Walking trail app with step tracking and clue-based exploration in UK cities.  
-**Tech Stack**: Android, Geolocation APIs  
+**Tech Stack**: Android, Geolocation APIs, Push Notifications  
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/22703a43-6289-437f-996c-f64ec58902ef" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/8ab22a7d-2203-42a9-86d1-6410561e366e" />
