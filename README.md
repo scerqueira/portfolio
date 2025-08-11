@@ -146,7 +146,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: DECO – Portuguese Consumer Protection Association  
 **Description**: Use your virtual DECO+ card for instant discounts on fuel, health, banking, and more  
 **Tech Stack**: React Native, Redux, Push Notifications, Maps, Geolocation   
-**More Info**: [Play Store](https://play.google.com/store/apps/details?id=pt.deco.mais) / [App Store](https://apps.apple.com/pt/app/decomais/id1302090178)
+**More Info**: [Play Store](https://play.google.com/store/apps/details?id=com.minuscode.decomais&hl=pt_PT) / [App Store](https://apps.apple.com/pt/app/decomais/id1302090178)
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/651354fc-1d41-4429-b6fa-9c333ac534d5" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/0bf80ee4-8457-448b-9134-2597e83a1ecd" />
@@ -162,7 +162,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: Academic HealthPlans  
 **Description**: Insurance portal for students to access plan details and ID cards  
 **Tech Stack**: React Native, Redux, Push Notifications  
-**More Info**: [App Store](https://apps.apple.com/us/app/ahp-care/id1327778071) / [ahpcare.com/mobile](https://www.ahpcare.com/mobile/)  
+**More Info**: [App Store](https://apps.apple.com/us/app/ahp-care/id1327778071) / [ahpcare.com](https://www.ahpcare.com/mobile/)  
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/c4d05c02-8cf0-4876-882d-ad449052f9d1" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/5e1e0c3e-639e-4d74-952c-4a59f06a7d23" />
@@ -178,6 +178,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: Hype London  
 **Description**: Walking trail app with step tracking and clue-based exploration in UK cities  
 **Tech Stack**: Android, Geolocation APIs, Push Notifications  
+**More Info**: Removed from google play store  
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/22703a43-6289-437f-996c-f64ec58902ef" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/8ab22a7d-2203-42a9-86d1-6410561e366e" />
