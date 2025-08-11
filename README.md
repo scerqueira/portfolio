@@ -54,7 +54,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/40819152-d4f8-45e3-9a62-d8e78b4301d1" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/cb2a4957-21b3-4ea0-821b-4e650721b1f4" />
 
-<img width="1020" height="806" alt="Screenshot 2025-08-11 at 14 13 01" src="https://github.com/user-attachments/assets/719b951e-6d2d-450f-b8ed-cb31e797d76a" />
+<img width="600" alt="Screenshot 2025-08-11 at 14 13 01" src="https://github.com/user-attachments/assets/719b951e-6d2d-450f-b8ed-cb31e797d76a" />
 
 ---
 
@@ -72,7 +72,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 <img  width="146" alt="image" src="https://github.com/user-attachments/assets/6729fb98-7827-46ba-8d59-9891a651ad87" />
 <img  width="146" alt="image" src="https://github.com/user-attachments/assets/9d5b38c7-07f7-4d60-b0d1-3856787a0c42" />
 
-<img width="928" height="774" alt="Screenshot 2025-08-11 at 14 05 16" src="https://github.com/user-attachments/assets/32b21614-916d-49e6-a23c-87bba489ae46" />
+<img width="600" alt="Screenshot 2025-08-11 at 14 05 16" src="https://github.com/user-attachments/assets/32b21614-916d-49e6-a23c-87bba489ae46" />
 
 ---
 
