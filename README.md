@@ -175,7 +175,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 
 ### Crumbs City Trails 📱
 
-**Client**: National Walking Month initiative  
+**Client**: Hype London  
 **Description**: Walking trail app with step tracking and clue-based exploration in UK cities  
 **Tech Stack**: Android, Geolocation APIs, Push Notifications  
 
