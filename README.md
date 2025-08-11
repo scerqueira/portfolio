@@ -45,7 +45,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 ### Jawwy App (Saudi Telecom) 📱 🌐
 
 **Client**: Jawwy from stc – Saudi Telecom  
-**Description**: Telecom app and website for managing mobile plans, ordering SIMs, gifting data, and recharging balances.  
+**Description**: Telecom app and website for managing mobile plans, ordering SIMs, gifting data, and recharging balances  
 **Tech Stack**: ReactJS (Web), React Native (Mobile), Firebase, AEM, REST API, Context API, Push Notifications, Styled Components  
 **More Info**: [App Store](https://apps.apple.com/sa/app/jawwy-%D8%AC%D9%88-%D9%8A-2-0/id1670373086) / [Google Play](https://play.google.com/store/apps/details?id=com.jawwyevo_main.app) / [Web](https://www.jawwy.sa/content/jawwy/ar/home.html)  
 
@@ -63,7 +63,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 ### Ooredoo Qatar 📱 🌐
 
 **Client**: Ooredoo Qatar  
-**Description**: Official self-care platform for Qatar customers. Includes web and mobile for managing telecom services—balance, SIM, billing, and e-commerce.  
+**Description**: Official self-care platform for Qatar customers. Includes web and mobile for managing telecom services—balance, SIM, billing, and e-commerce  
 **Tech Stack**: ReactJS (Web), React Native (Mobile), Firebase, Rest API, Liferay, Redux, Push Notifications, Styled Components  
 **More Info**: [App Store](https://apps.apple.com/us/app/ooredoo-qatar/id619828745) / [Google Play](https://play.google.com/store/apps/details?id=qa.ooredoo.android) / [Web](https://www.ooredoo.qa/web/en/)  
 
@@ -79,7 +79,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 ### Connected Retail App (Farfetch) 📱
 
 **Client**: Farfetch Platform Solutions  
-**Description**: A luxury retail app connecting all client touchpoints—from in-store clienteling to digital experiences.  
+**Description**: A luxury retail app connecting all client touchpoints—from in-store clienteling to digital experiences  
 **Tech Stack**: React Native, Rest API, Redux, Push Notifications, Azure, Firebase, Styled Components  
 **More Info**: Removed from stores  
 
@@ -96,7 +96,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 ### Browns Fashion App 📱
 
 **Client**: Farfetch / Browns Fashion  
-**Description**: Shop designer brands with curated wishlists, Virtual Try-On, and cross-device syncing.  
+**Description**: Shop designer brands with curated wishlists, Virtual Try-On, and cross-device syncing  
 **Tech Stack**: React Native, Rest API, Redux, Push Notifications, Firebase, Styled Components  
 **More Info**: Removed from stores  
 
@@ -112,7 +112,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 ### 212.2 – Ricardo Vila Nova 📱
 
 **Client**: Ricardo Vila Nova (Trichologist & Hair Expert)   
-**Description**: Luxury diagnostics & client care app for 212.2, including bookings, diagnostics, and recommendations.  
+**Description**: Luxury diagnostics & client care app for 212.2, including bookings, diagnostics, and recommendations  
 **Tech Stack**: React Native, Firebase, TypeScript, Context API, Styled Components  
 **More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327) / [Web](https://ricardovilanova.com/)   
 
@@ -128,7 +128,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 ### QuoVadis Lisboa 📱
 
 **Client**: Patriarcado de Lisboa  
-**Description**: Religious tourism guide with interactive info about churches, museums, and events.  
+**Description**: Religious tourism guide with interactive info about churches, museums, and events  
 **Tech Stack**: React Native, Firebase, Redux, Push Notifications, Maps, Geolocation  
 **More Info**: [App Store](https://apps.apple.com/us/app/quovadis-lisboa/id1222656489)  / [Web](https://www.quovadislisboa.com/)
 
@@ -144,7 +144,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 ### DECO+ App 📱
 
 **Client**: DECO – Portuguese Consumer Protection Association  
-**Description**: Use your virtual DECO+ card for instant discounts on fuel, health, banking, and more.  
+**Description**: Use your virtual DECO+ card for instant discounts on fuel, health, banking, and more  
 **Tech Stack**: React Native, Redux, Push Notifications, Maps, Geolocation   
 **More Info**: [Play Store](https://play.google.com/store/apps/details?id=pt.deco.mais) / [App Store](https://apps.apple.com/pt/app/decomais/id1302090178)
 
@@ -160,7 +160,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 ### AHP Care App 📱
 
 **Client**: Academic HealthPlans  
-**Description**: Insurance portal for students to access plan details and ID cards.  
+**Description**: Insurance portal for students to access plan details and ID cards  
 **Tech Stack**: React Native, Redux, Push Notifications  
 **More Info**: [App Store](https://apps.apple.com/us/app/ahp-care/id1327778071) / [ahpcare.com/mobile](https://www.ahpcare.com/mobile/)  
 
@@ -176,7 +176,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 ### Crumbs City Trails 📱
 
 **Client**: National Walking Month initiative  
-**Description**: Walking trail app with step tracking and clue-based exploration in UK cities.  
+**Description**: Walking trail app with step tracking and clue-based exploration in UK cities  
 **Tech Stack**: Android, Geolocation APIs, Push Notifications  
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/22703a43-6289-437f-996c-f64ec58902ef" />
