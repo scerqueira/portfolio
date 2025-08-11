@@ -6,9 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/scerqueira"><img src="https://img.shields.io/badge/GitHub-scerqueira-181717?logo=github" /></a>
-  <a href="https://linkedin.com/in/scerqueira-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-scerqueira--dev-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn - scerqueira-dev" />
-  </a>
+  <a href="https://linkedin.com/in/scerqueira-dev"><img src="https://img.shields.io/badge/LinkedIn-scerqueira--dev-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn - scerqueira-dev" /></a>
   <a href="mailto:scerqueira.dev@gmail.com"><img src="https://img.shields.io/badge/Email-scerqueira.dev@gmail.com-red?logo=gmail" /></a>
 </p>
 
@@ -21,11 +19,10 @@ I'm a senior software engineer with over **16 years** of experience building sca
 - Specialized in **React Native** and **ReactJS**
 - Passionate about creating polished digital products with real-world impact
 - Experienced as a team lead, mentor, and Agile practitioner (PSM I, PSPO I)
-- Advocate for clean code, team empathy, and thoughtful design
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | **Category**             | **Technologies**                                                                 |
 |--------------------------|----------------------------------------------------------------------------------|
@@ -50,6 +47,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: Jawwy from stc – Saudi Telecom  
 **Description**: Telecom app and website for managing mobile plans, ordering SIMs, gifting data, and recharging balances.  
 **Tech Stack**: ReactJS (Web), React Native (Mobile), Firebase, AEM, REST API, Context API, Push Notifications, Styled Components  
+**More Info**: [App Store](https://apps.apple.com/sa/app/jawwy-%D8%AC%D9%88-%D9%8A-2-0/id1670373086) / [Google Play](https://play.google.com/store/apps/details?id=com.jawwyevo_main.app) / [Web](https://www.jawwy.sa/content/jawwy/ar/home.html)  
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/4ea91d51-4c03-49dd-96b7-36e76d6df588" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/5208fe69-5f11-4210-a544-576d6e283042" />
@@ -68,7 +66,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: Ooredoo Qatar  
 **Description**: Official self-care platform for Qatar customers. Includes web and mobile for managing telecom services—balance, SIM, billing, and e-commerce.  
 **Tech Stack**: ReactJS (Web), React Native (Mobile), Firebase, Rest API, Liferay, Redux, Push Notifications, Styled Components  
-**More Info**: [App Store](https://apps.apple.com/us/app/ooredoo-qatar/id619828745) / [Google Play](https://play.google.com/store/apps/details?id=qa.ooredoo.android) / [Web](https://www.ooredoo.qa/web/en/)
+**More Info**: [App Store](https://apps.apple.com/us/app/ooredoo-qatar/id619828745) / [Google Play](https://play.google.com/store/apps/details?id=qa.ooredoo.android) / [Web](https://www.ooredoo.qa/web/en/)  
 
 <img  width="146" alt="image" src="https://github.com/user-attachments/assets/d6caee4d-ae2d-49ab-9275-3daf9da61f59" />
 <img  width="146" alt="image" src="https://github.com/user-attachments/assets/b35de334-82e4-401b-8e9f-d7c4f43b5537" />
@@ -119,7 +117,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: Ricardo Vila Nova (Trichologist & Hair Expert)   
 **Description**: Luxury diagnostics & client care app for 212.2, including bookings, diagnostics, and recommendations.  
 **Tech Stack**: React Native, Firebase, TypeScript, Context API, Styled Components  
-**More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327)  
+**More Info**: [App Store](https://apps.apple.com/mz/app/212-2-ricardo-vila-nova/id1614885327) / [Web](https://ricardovilanova.com/)   
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/008896e7-92bd-4a4d-a54f-b054f39e71a7" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/567520ce-5e8f-4b58-af12-22c8fc4750c9" />
@@ -135,7 +133,7 @@ I'm a senior software engineer with over **16 years** of experience building sca
 **Client**: Patriarcado de Lisboa  
 **Description**: Religious tourism guide with interactive info about churches, museums, and events.  
 **Tech Stack**: React Native, Firebase, Redux, Push Notifications, Maps, Geolocation  
-**More Info**: [App Store](https://apps.apple.com/us/app/quovadis-lisboa/id1222656489)  
+**More Info**: [App Store](https://apps.apple.com/us/app/quovadis-lisboa/id1222656489)  / [Web](https://www.quovadislisboa.com/)
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/292ade5c-ca51-445a-89ee-9dfd1c8416d6" />
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/fd90a036-aef5-40cd-92c4-a545f593f9db" />
